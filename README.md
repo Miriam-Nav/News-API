@@ -284,6 +284,6 @@ dartdoc
 
 ---
 
-**Autor**: Maria Emilia Navalón
+**Autor**: Maria Emilia Navalón <br>
 **Fecha**: Febrero 2026  
 **Versión**: 3.0
