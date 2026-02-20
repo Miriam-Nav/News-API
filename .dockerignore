@@ -1,0 +1,47 @@
+# Flutter/Dart
+news_app/build/
+news_app/.dart_tool/
+news_app/.flutter-plugins
+news_app/.flutter-plugins-dependencies
+news_app/.packages
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Tests
+news_app/test/
+news_app/test_driver/
+
+# Documentation
+*.md
+news_app/*.md
+news_app/README.md
+
+# Platform specific builds
+news_app/ios/
+news_app/android/
+news_app/macos/
+news_app/linux/
+news_app/windows/
+
+# Other
+news_app/.metadata
+news_app/analysis_options.yaml
+news_app/*.iml

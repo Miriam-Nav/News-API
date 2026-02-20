@@ -1,0 +1,11 @@
+services:
+  flutter_dev:
+    dns:
+        - 8.8.8.8
+    build: .
+    volumes:
+      - ./news_app:/app/news_app 
+    ports:
+      - "8080:8080"            
+    stdin_open: true
+    tty: true
